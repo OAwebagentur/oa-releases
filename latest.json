@@ -1,0 +1,6 @@
+﻿{
+  "version": "0.4.0",
+  "notes": "OA 0.4.0 - Rebrand auf OA, Web-Analytics in der Tracking-Tab, org-weite Connectors (Search Console / GA4 / Clarity) mit Auto-Domain, Bugfixes (leere Panels, Stoppwort-Persistenz), echte Update-Pruefung.",
+  "pub_date": "2026-06-27",
+  "url": "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.0/OA_Setup.exe"
+}
