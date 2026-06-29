@@ -1,6 +1,12 @@
 {
-  "version": "0.4.0",
-  "notes": "OA 0.4.0 - Rebrand auf OA, Web-Analytics in der Tracking-Tab, org-weite Connectors (Search Console / GA4 / Clarity) mit Auto-Domain, Bugfixes (leere Panels, Stoppwort-Persistenz), echte Update-Pruefung.",
-  "pub_date": "2026-06-27",
-  "url": "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.0/OA_Setup.exe"
+    "version":  "0.4.1",
+    "notes":  "Tracker-Genauigkeit (Reload/Seitenwechsel), Verlauf-Chart, Sitzungen-Timeline, GEO-Tab, KI-Referrer-Tracking, Deep-Crawler-Fixes (Layout + Domain-Prefill), Auto-Updater",
+    "pub_date":  "2026-06-29T16:58:46Z",
+    "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.1/OA_0.4.1_x64-setup.exe",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVdZdFR1MS9MdkZpY1hzMXhuTmpkKzFmaHNJQ0Z1OGVraUNPcm94ZXhod0dJK3RlemM0NGRZcEFUSDVkRmlpZmJ0MkRXZWJ4dEgwUGZyVytNK3pVOWRQQlA0c1pOWUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzUyMjgyCWZpbGU6T0FfMC40LjFfeDY0LXNldHVwLmV4ZQowVXVmTXpmWnc2NVB0aDhuUzdQeUNFUzMrblo5eXltZ3QwZGNmMjEzaVRYKzVJVm1rVTNaZjNSQWZuY1JvYjVZVS94YnBNQmZHNWFpK2laY2RuTXRDdz09Cg==",
+                                             "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.1/OA_0.4.1_x64-setup.exe"
+                                         }
+                  }
 }
