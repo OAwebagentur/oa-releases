@@ -1,0 +1,12 @@
+{
+  "version": "0.4.2",
+  "notes": "Design-System (Inter + zentrale OA-Tokens, ruhiger Ladescreen); Ordner-System fuer Workspaces (Kunden/demo) ueber GUI + CLI + MCP; Gesamtuebersicht mit Top-3-vs-Andere-Charts; CLI/MCP: oa-seo init/update/release; GSC-CLI (Sortierung/Filter/CTR-Chancen); serverseitiges KI-Crawler-Tracking; GEO-Fixes.",
+  "pub_date": "2026-07-08T21:22:40Z",
+  "url": "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.2/OA_0.4.2_x64-setup.exe",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVdZdFR1MS9MdkV4Rk96SEhrL3l6MGpCeWprUkNmNUtla3h1YzhzaExRYnN5ZHFKTlZOSWVIeG5OWEY1Myt4SU96OU9Cd2M0b1I3WU5SQTJRakU3WWtEelVaSnZrQ1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTQ1NjczCWZpbGU6T0FfMC40LjJfeDY0LXNldHVwLmV4ZQp0ZDI5S3RHNzhWOVZYMU1rM2EzdkJVVG1qa1JXQnUzcjJBU3hlTDM1RWV6Wm1vQXRqZTR5STM1eUcrRENMRlFsNFIrakc1TTd1VXl1M0MrUmw0b2FBdz09Cg==",
+      "url": "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.2/OA_0.4.2_x64-setup.exe"
+    }
+  }
+}
