@@ -1,12 +1,12 @@
 {
-  "version": "0.4.2",
-  "notes": "Design-System (Inter + zentrale OA-Tokens, ruhiger Ladescreen); Ordner-System fuer Workspaces (Kunden/demo) ueber GUI + CLI + MCP; Gesamtuebersicht mit Top-3-vs-Andere-Charts; CLI/MCP: oa-seo init/update/release; GSC-CLI (Sortierung/Filter/CTR-Chancen); serverseitiges KI-Crawler-Tracking; GEO-Fixes.",
-  "pub_date": "2026-07-08T21:22:40Z",
-  "url": "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.2/OA_0.4.2_x64-setup.exe",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVdZdFR1MS9MdkV4Rk96SEhrL3l6MGpCeWprUkNmNUtla3h1YzhzaExRYnN5ZHFKTlZOSWVIeG5OWEY1Myt4SU96OU9Cd2M0b1I3WU5SQTJRakU3WWtEelVaSnZrQ1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTQ1NjczCWZpbGU6T0FfMC40LjJfeDY0LXNldHVwLmV4ZQp0ZDI5S3RHNzhWOVZYMU1rM2EzdkJVVG1qa1JXQnUzcjJBU3hlTDM1RWV6Wm1vQXRqZTR5STM1eUcrRENMRlFsNFIrakc1TTd1VXl1M0MrUmw0b2FBdz09Cg==",
-      "url": "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.2/OA_0.4.2_x64-setup.exe"
-    }
-  }
+    "version":  "0.4.3",
+    "notes":  "UI-Round-2: eine Schrift (Inter) inkl. Nav, ruhige OA-Palette statt RustySEO-Gradients, Tracking-Tab aufgeraeumt (KI-Referrer+Referrer vereint, neue KI-Zitate), client-seitige Bot-/Mensch-Erkennung, Workspace-Wechsel ohne Ladescreen, Vercel-Projekt-Import.",
+    "pub_date":  "2026-07-11T18:54:46Z",
+    "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.3/OA_0.4.3_x64-setup.exe",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVdZdFR1MS9Mdk1UN1gyMmZ2TjdUeHAzYU5ZTFBlY011YVhVcEUvRDJvY2JvWGxEckRCVUsrS0VndUpoOE1BTTl2YjQ5L3NiMG8yQjVUS25GRDU5WnRjZVFyM1QvdVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzk2MDc5CWZpbGU6T0FfMC40LjNfeDY0LXNldHVwLmV4ZQp5OENndC9ydFovWVhUSjJ4azRxMlAyRW92V21hY2t2V0RGL1BxQjB1eXF6Q0MwSEhIcXRaSWhFRitMNzM4NlNxRHR4T2l0TDRQUzU3WXcvQ25ER2dDdz09Cg==",
+                                             "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.3/OA_0.4.3_x64-setup.exe"
+                                         }
+                  }
 }
