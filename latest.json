@@ -1,12 +1,12 @@
 {
-    "version":  "0.4.3",
-    "notes":  "UI-Round-2: eine Schrift (Inter) inkl. Nav, ruhige OA-Palette statt RustySEO-Gradients, Tracking-Tab aufgeraeumt (KI-Referrer+Referrer vereint, neue KI-Zitate), client-seitige Bot-/Mensch-Erkennung, Workspace-Wechsel ohne Ladescreen, Vercel-Projekt-Import.",
-    "pub_date":  "2026-07-11T18:54:46Z",
-    "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.3/OA_0.4.3_x64-setup.exe",
+    "version":  "0.4.4",
+    "notes":  "Themen-Cluster + Plan-Cluster: Seiten und Keywords als Themen-Cluster visualisiert (Force-Graph mit Drilldown), Gap-Analyse mit konkreten Aktionen (Kannibalisierung, Title-Mismatch, Content-Luecken, schwache Verlinkung, Quick-Wins) und ein neuer Planungs-Modus, in dem Soll-Cluster definiert und gegen den Ist-Zustand abgeglichen werden. Task-Manager- und Tracking-Tab entfernt (Tracking laeuft ueber Clarity).",
+    "pub_date":  "2026-07-18T21:41:35Z",
+    "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.4/OA_0.4.4_x64-setup.exe",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVdZdFR1MS9Mdk1UN1gyMmZ2TjdUeHAzYU5ZTFBlY011YVhVcEUvRDJvY2JvWGxEckRCVUsrS0VndUpoOE1BTTl2YjQ5L3NiMG8yQjVUS25GRDU5WnRjZVFyM1QvdVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzk2MDc5CWZpbGU6T0FfMC40LjNfeDY0LXNldHVwLmV4ZQp5OENndC9ydFovWVhUSjJ4azRxMlAyRW92V21hY2t2V0RGL1BxQjB1eXF6Q0MwSEhIcXRaSWhFRitMNzM4NlNxRHR4T2l0TDRQUzU3WXcvQ25ER2dDdz09Cg==",
-                                             "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.3/OA_0.4.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVdZdFR1MS9MdkNBWkI2Q0wyOElXYlFjOE9DbDNwbm44Tk8xM0Y3M3Vab25ncDgyeHNsM0pNV1d3SVlVYkNHWGVnRWMyNTF6RCtDMnROeDVVUWNRRE9pWXdLRmlPcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDEwODg3CWZpbGU6T0FfMC40LjRfeDY0LXNldHVwLmV4ZQpoajI5Ly9ubnM4cXI2VzI1bzFJME9vVGhVYzhINDFvTHRRcnRTNkowQnA1UmU5cTZYMXVnZnpVSmU1ZGNUcjg4LzhyNU41UjZLUmpaMHMvZjVjMkNCUT09Cg==",
+                                             "url":  "https://github.com/OAwebagentur/oa-releases/releases/download/v0.4.4/OA_0.4.4_x64-setup.exe"
                                          }
                   }
 }
